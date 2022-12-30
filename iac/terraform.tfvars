@@ -1,0 +1,5 @@
+prefix = "st10"
+location = "westeurope"
+rgname = "rgsmstst10"
+dbadmin = "demoadmin"
+dbadminpass = "Passw0rd1!123"
